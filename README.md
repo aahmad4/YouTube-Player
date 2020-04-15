@@ -2,6 +2,11 @@
 
 An Android App which uses Google's YouTube Data API to view and watch videos / playlists. It allows users to select different videos or playlists and watch them directly in the app. The API I used in this app can be found [here](https://developers.google.com/youtube/android/player/).
 
+## Clone
+```
+git clone https://github.com/aahmad4/YouTube-Player
+```
+
 ## Implementation
 
 In [YoutubeActivity.java](https://github.com/aahmad4/YouTube-Player/blob/master/app/src/main/java/aliahmad/netlify/com/YoutubeActivity.java) change these lines of code to match your API key found on Google's site, the YouTube Video ID, and the YouTube Playlist ID. 

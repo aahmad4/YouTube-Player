@@ -1,6 +1,8 @@
 # YouTube Player 
 
-An Android App which uses Google's YouTube Data API to view and watch videos / playlists. It allows users to select different videos or playlists and watch them directly in the app. The API I used in this app can be found [here](https://developers.google.com/youtube/android/player/).
+An Android App which uses Google's YouTube Data API to view and watch videos / playlists. It allows users to select different videos or playlists and watch them directly in the app. The API I used in this app can be found [here](https://developers.google.com/youtube/android/player/) or below.
+
+https://developers.google.com/youtube/android/player/
 
 ## Clone
 ```
